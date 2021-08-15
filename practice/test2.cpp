@@ -573,9 +573,9 @@ using namespace std;
 int main() {
 
     map<int, int>asult;
-    for (int i = 0; i < nums.size(); i++)
+    for (int i = 0; i < asult.size(); i++)
     {
-        asult[i] = nums[i];
+        asult[i] = asult[i];
 
     }
    
